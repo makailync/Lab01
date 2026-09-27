@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/profile.jpg"
+profile_picture = "Lab1_WebDev_Calhoun/Images/profile.jpg"
 about_me = "My name is Scott Pilgrim. I'm 23 years old and play the bass for my band called Sex Bob-Omb. I tend to find myself in complicated situations, especially with relationships..."
 
 #CHANGE BELOW
@@ -31,9 +31,9 @@ course_data = {
     }
 experience_data = {
     "Bassist for Sex Bob-Omb": (["- Played the bass for a band",
-                                                                          "- Helped the band gain new fans (and one particular super-fan) after performing at shows"],"Images/performance.jpg"),
+                                                                          "- Helped the band gain new fans (and one particular super-fan) after performing at shows"],"Lab1_WebDev_Calhoun/Images/performance.jpg"),
     "Employee at Honest Ed's":(["- Sold items to customers",
-                                                           "- Helped the store sell merchandise, especially during busy weeks"],"Images/HonestEds.jpg")
+                                                           "- Helped the store sell merchandise, especially during busy weeks"],"Lab1_WebDev_Calhoun/Images/HonestEds.jpg")
     
 }
 
@@ -65,7 +65,7 @@ spoken_data = {
     "Spanish": "Beginner",
 }
 leadership_data = {
-    "Motivator in Sex Bob-Omb": (["- Helped bandmates prepare for performances (although I was distracted by my love triangle)"],"Images/motivator.jpg"),
+    "Motivator in Sex Bob-Omb": (["- Helped bandmates prepare for performances (although I was distracted by my love triangle)"],"Lab1_WebDev_Calhoun/Images/motivator.jpg"),
 
 }
 activity_data={
