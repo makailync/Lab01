@@ -2,15 +2,15 @@ import streamlit as st
 st.markdown("""
 <style>
 .stApp {
-    background: linear-gradient(to bottom, #FFF3A3, #FFCCCB)
-    font-family: "Trebuchet MS", Arial, sans-serif;
+    background: linear-gradient(to bottom, #FFF3A3, #FFCCCB);
+    font-family: "Comic Sans MS", sans-serif !important;
 }
 .stApp h1 {
-    font-family: Impact, "Arial Black", sans-serif !important;
+    font-family: "Comic Sans MS", sans-serif !important;
     letter-spacing: 1px;
 }
 .stApp h2, h3 {
-    font-family: "Trebuchet MS", Arial, sans-serif !important;
+    font-family: "Comic Sans MS" sans-serif !important;
     letter-spacing: 1px;
 }
 </style>
