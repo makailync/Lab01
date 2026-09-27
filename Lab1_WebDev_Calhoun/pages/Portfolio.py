@@ -12,10 +12,7 @@ section[data-testid="stSidebar"] {
 [data-testid="stSidebarNav] a[aria-current="page"]{
     background-color: #FFF3A3 !important;
 }
-[data-testid="stSidebarNav] a:hover {
-    background-color: #FFF8CC !important;
-    color: #000000 !important;
-}
+
 header[data-testid="stHeader"] {
     background-color: #FFCCCB !important;
 }
