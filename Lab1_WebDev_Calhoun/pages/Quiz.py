@@ -7,11 +7,11 @@ st.markdown("""
 }
 .stApp h1 {
     font-family: "Courier New", sans-serif !important;
-    letter-spacing: 0.1px;
+    letter-spacing: -0.2px;
 }
 .stApp h2, h3 {
     font-family: "Courier New", sans-serif !important;
-    letter-spacing: 0.1px;
+    letter-spacing: -0.2px;
 }
 </style>
 """, unsafe_allow_html=True)
