@@ -6,6 +6,9 @@ st.markdown("""
 .stApp {
     background: linear-gradient(to bottom, #FFF3A3, #FFCCCB)
 }
+section[data-testid="StSidebar"] {
+    background-color: #FFF8CC;
+}
 </style>
 """, unsafe_allow_html=True)
 def about_me():
