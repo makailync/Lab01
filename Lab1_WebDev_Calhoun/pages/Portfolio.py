@@ -93,7 +93,7 @@ projects_section(info.projects_data)
 
 st.markdown("""
 <style>
-div[data-testid="stProgress"] > div >div {
+div[data-testid="stProgress"] > div[role="progressbar"] >div {
     background-color: #FF4B4B;
 }
 </style>
