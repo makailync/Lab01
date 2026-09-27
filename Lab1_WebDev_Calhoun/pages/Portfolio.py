@@ -93,7 +93,7 @@ projects_section(info.projects_data)
 
 st.markdown("""
 <style>
-div[data-testid="stProgressBar"]> div {
+div.st-emotion-cache-b0dv7m {
     background-color: #FF4B4B !important;
 }
 </style>
