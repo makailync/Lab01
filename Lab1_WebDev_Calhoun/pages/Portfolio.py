@@ -91,6 +91,14 @@ def projects_section(projects_data):
 
 projects_section(info.projects_data)
 
+st.markdown("""
+<style>
+div[data-testid="stProgress"] > div >div {
+    background-color: #FF4B4B;
+}
+</style>
+""", unsafe_allow_html=True)
+
 def skills_section(skills_data, spoken_data):
 
     st.header("Skills")
