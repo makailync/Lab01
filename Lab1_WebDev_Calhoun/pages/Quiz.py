@@ -3,7 +3,7 @@ st.title("How Much Do You Know About Scott Pilgrim?")
 st.write("Test your knowledge of Scott Pilgrim vs. the World!")
 
 st.header("Question 1")
-st.image("Images/evilexes.jpg")
+st.image("Lab1_WebDev_Calhoun/Images/evilexes.jpg")
 exes = st.slider( #NEW
     "how many of Ramona's evil exes did Scott Pilgrim defeat?",
     min_value=0,
@@ -12,14 +12,14 @@ exes = st.slider( #NEW
 )
 
 st.header("Question 2")
-st.image("Images/PilgrimRamonaKnives.jpg")
+st.image("Lab1_WebDev_Calhoun/Images/PilgrimRamonaKnives.jpg")
 love = st.selectbox( #NEW
     "Who was Scott Pilgrim's true love?",
     ["Knives", "Ramona"]
 )
 
 st.header("Question 3")
-st.image("Images/ramona.jpg")
+st.image("Lab1_WebDev_Calhoun/Images/ramona.jpg")
 hair = st.multiselect( #NEW
     "What were all of Ramona's hair colors throughout the movie?",
     ["Pink","Blue", "Green", "Purple","Red"]
