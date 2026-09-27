@@ -9,7 +9,7 @@ st.markdown("""
     font-family: "Courier New", sans-serif !important;
     letter-spacing: -0.2px;
 }
-.stApp h2, h3 {
+.stApp h2 {
     font-family: "Courier New", sans-serif !important;
     letter-spacing: -0.2px;
 }
