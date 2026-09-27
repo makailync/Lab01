@@ -9,7 +9,7 @@ st.markdown("""
 section[data-testid="stSidebar"] {
     background-color: #FFF8CC !important;
 }
-[data-testid="stSidebarNav] a[aria-current="page"]{
+header[data-testid="stHeader"]{
     background-color: #FFF3A3 !important;
 }
 
