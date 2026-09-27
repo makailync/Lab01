@@ -9,6 +9,9 @@ st.markdown("""
 section[data-testid="stSidebar"] {
     background-color: #FFF8CC !important;
 }
+section[data-testid="stToolbar"] {
+    background-color: #FFF3A3 !important;
+}
 </style>
 """, unsafe_allow_html=True)
 def about_me():
