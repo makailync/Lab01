@@ -9,7 +9,7 @@ st.markdown("""
 section[data-testid="stSidebar"] {
     background-color: #FFF8CC !important;
 }
-section[data-testid="stToolbar"] {
+section[data-testid="stHeader"] {
     background-color: #FFF3A3 !important;
 }
 </style>
