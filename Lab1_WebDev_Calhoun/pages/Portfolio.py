@@ -13,9 +13,6 @@ section[data-testid="stSidebar"] {
     background-color: #FFF3A3 !important;
 }
 
-header[data-testid="stHeader"] {
-    background-color: #FFCCCB !important;
-}
 </style>
 """, unsafe_allow_html=True)
 def about_me():
