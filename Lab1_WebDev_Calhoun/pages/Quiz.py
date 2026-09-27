@@ -3,15 +3,15 @@ st.markdown("""
 <style>
 .stApp {
     background: linear-gradient(to bottom, #FFF3A3, #FFCCCB);
-    font-family: "Comic Sans MS", sans-serif !important;
+    font-family: "Arial Black", sans-serif !important;
 }
 .stApp h1 {
-    font-family: "Comic Sans MS", sans-serif !important;
-    letter-spacing: 1px;
+    font-family: "Arial Black", sans-serif !important;
+    letter-spacing: 0.5px;
 }
 .stApp h2, h3 {
-    font-family: "Comic Sans MS" sans-serif !important;
-    letter-spacing: 1px;
+    font-family: "Arial Black", sans-serif !important;
+    letter-spacing: 0.5px;
 }
 </style>
 """, unsafe_allow_html=True)
