@@ -3,13 +3,15 @@ st.markdown("""
 <style>
 .stApp {
     background: linear-gradient(to bottom, #FFF3A3, #FFCCCB)
+    font-family: "Trebuchet MS", Arial, sans-serif;
 }
-h1, h2, h3 {
-    font-family: Impact, "Arial Black", sans-serif;
+.stApp h1 {
+    font-family: Impact, "Arial Black", sans-serif !important;
     letter-spacing: 1px;
 }
-.stApp {
-    font-family: "Trebuchet MS", Arial, sans-serif;
+.stApp h2, h3 {
+    font-family: "Trebuchet MS", Arial, sans-serif !important;
+    letter-spacing: 1px;
 }
 </style>
 """, unsafe_allow_html=True)
