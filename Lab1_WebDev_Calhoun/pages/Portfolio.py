@@ -1,7 +1,13 @@
 import streamlit as st
 import info
 import pandas as pd
-
+st.markdown("""
+<style>
+.stApp {
+    background: linear-gradient(to bottom, #FFF3A3, #FFCCCB)
+}
+</style>
+""", unsafe_allow_html=True)
 def about_me():
     st.header("About Me")
     st.image(info.profile_picture, width=200)
