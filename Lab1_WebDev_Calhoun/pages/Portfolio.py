@@ -10,7 +10,7 @@ section[data-testid="stSidebar"] {
     background-color: #FFF8CC !important;
 }
 header[data-testid="stHeader"]{
-    background-color: #F0DCE5 !important;
+    background-color: #FFE7E9 !important;
 }
 
 </style>
