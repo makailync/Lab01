@@ -3,13 +3,7 @@ st.markdown("""
 <style>
 .stApp {
     background: linear-gradient(to bottom, #FFF3A3, #FFCCCB);
-    font-family: "Courier New", sans-serif !important;
 }
-.stApp h1 {
-    font-family: "Courier New", sans-serif !important;
-    letter-spacing: -0.2px;
-}
-
 </style>
 """, unsafe_allow_html=True)
 st.title("How Much Do You Know About Scott Pilgrim?")
