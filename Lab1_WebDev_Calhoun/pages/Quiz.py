@@ -3,14 +3,14 @@ st.markdown("""
 <style>
 .stApp {
     background: linear-gradient(to bottom, #FFF3A3, #FFCCCB);
-    font-family: "Arial Black", sans-serif !important;
+    font-family: "Courier New", sans-serif !important;
 }
 .stApp h1 {
-    font-family: "Arial Black", sans-serif !important;
+    font-family: "Courier New", sans-serif !important;
     letter-spacing: 0.5px;
 }
 .stApp h2, h3 {
-    font-family: "Arial Black", sans-serif !important;
+    font-family: "Courier New", sans-serif !important;
     letter-spacing: 0.5px;
 }
 </style>
