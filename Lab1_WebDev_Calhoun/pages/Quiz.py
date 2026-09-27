@@ -4,14 +4,12 @@ st.markdown("""
 .stApp {
     background: linear-gradient(to bottom, #FFF3A3, #FFCCCB)
 }
-@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
-
 h1, h2, h3 {
-    font-family: 'Bangers', cursive;
-    letter-spacing: 2px;
+    font-family: Impact, "Arial Black", sans-serif;
+    letter-spacing: 1px;
 }
 .stApp {
-    font-family: "Trebuchet MS", sans-serif;
+    font-family: "Trebuchet MS", Arial, sans-serif;
 }
 </style>
 """, unsafe_allow_html=True)
