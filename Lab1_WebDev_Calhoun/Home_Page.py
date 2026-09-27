@@ -1,5 +1,11 @@
 import streamlit as st
-
+st.markdown("""
+<style>
+.stApp {
+    background: linear-gradient(to bottom, #FFF3A3, #FFCCCB)
+}
+</style>
+""", unsafe_allow_html=True)
 # Title of App
 st.title("Web Development Lab01")
 
