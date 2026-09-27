@@ -1,4 +1,11 @@
 import streamlit as st
+st.markdown("""
+<style>
+.stApp {
+    background: linear-gradient(to bottom, #FFF3A3, #FFCCCB)
+}
+</style>
+""", unsafe_allow_html=True)
 st.title("How Much Do You Know About Scott Pilgrim?")
 st.write("Test your knowledge of Scott Pilgrim vs. the World!")
 
