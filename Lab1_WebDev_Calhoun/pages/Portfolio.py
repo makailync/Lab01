@@ -6,7 +6,7 @@ st.markdown("""
 .stApp {
     background: linear-gradient(to bottom, #FFF3A3, #FFCCCB)
 }
-st.Sidebar {
+section[data-testid="stSidebar"] {
     background-color: #FFF8CC !important;
 }
 </style>
