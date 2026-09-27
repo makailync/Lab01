@@ -2,7 +2,13 @@ import streamlit as st
 st.markdown("""
 <style>
 .stApp {
-    background: linear-gradient(to bottom, #FFF3A3, #FFCCCB)
+    background: linear-gradient(to bottom, #FFF3A3, #E78587)
+}
+section[data-testid="stSidebar"] {
+    background-color: #FFF8CC !important;
+}
+header[data-testid="stHeader"]{
+    background-color: #FFF8CC !important;
 }
 </style>
 """, unsafe_allow_html=True)
