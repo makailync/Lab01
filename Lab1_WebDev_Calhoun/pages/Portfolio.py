@@ -4,7 +4,7 @@ import pandas as pd
 st.markdown("""
 <style>
 .stApp {
-    background: linear-gradient(to bottom, #FFF3A3, #FFCCCB)
+    background: linear-gradient(to bottom, #FFF3A3, #E78587)
 }
 section[data-testid="stSidebar"] {
     background-color: #FFF8CC !important;
