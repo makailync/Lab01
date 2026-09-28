@@ -92,9 +92,9 @@ with info_tab:
         st.write("Ramona Flowers is Scott's love interest. She always keeps "
                  "Scott at arm's length.")
         st.subheader("Knives Chau")
-        st.write("Knives is Scott's former girlfriend. She was 17 in the movie "
+        st.write("Knives is Scott's former girlfriend. She was 17 in both the movie "
                  "and the comics. Scott's age change from 23 to 22 was actually to "
-                 "make this age gap seem less jarring. Knives finds herself trying "
-                 "to appear more like Ramona after Scott falls for her.")
+                 "make this age gap seem less jarring. Additionally, Knives finds herself "
+                 "trying to appear more like Ramona after Scott leaves her for Ramona.")
         
 
