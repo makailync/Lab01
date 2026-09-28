@@ -83,7 +83,7 @@ with info_tab:
     st.write("Learn more about some of the characters below.")
 
 
-    with st.expander("Learn More About Scott Pilgrim!"):
+    with st.expander("Learn More About Scott Pilgrim, Ramona, and Knives!"):
         st.subheader("Scott Pilgrim")
         st.write("Scott Pilgrim is the main character. In the comics,"
                  "Scott Pilgrim was actually 23, but his age was changed to 22"
