@@ -77,7 +77,7 @@ with quiz_tab:
 with info_tab:
     st.header("🎬About Scott Pilgrim vs. the World")
     st.write(
-        "Scott Pilgrim vs. the World follows Scott Pilgrim as he battles"
+        "Scott Pilgrim vs. the World follows Scott Pilgrim as he battles "
         "Ramona Flowers' seven evil exes.")
 
     st.write("Learn more about some of the characters below.")
