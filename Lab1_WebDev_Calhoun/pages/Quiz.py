@@ -85,16 +85,16 @@ with info_tab:
 
     with st.expander("Learn More About Scott Pilgrim, Ramona, and Knives!"):
         st.subheader("Scott Pilgrim")
-        st.write("Scott Pilgrim is the main character. In the comics,"
-                 "Scott Pilgrim was actually 23, but his age was changed to 22"
+        st.write("Scott Pilgrim is the main character. In the comics, "
+                 "Scott Pilgrim was actually 23, but his age was changed to 22 "
                  "for the movie. He's also the bass player for Sex Bob-Omb.")
         st.subheader("Ramona Flowers")
-        st.write("Ramona Flowers is Scott's love interest. She always keeps"
+        st.write("Ramona Flowers is Scott's love interest. She always keeps "
                  "Scott at arm's length.")
         st.subheader("Knives Chau")
-        st.write("Knives is Scott's former girlfriend. She was 17 in the movie"
-                 "and the comics. Scott's age change from 23 to 22 was actually to"
-                 "make this age gap seem less jarring. Knives finds herself trying"
+        st.write("Knives is Scott's former girlfriend. She was 17 in the movie "
+                 "and the comics. Scott's age change from 23 to 22 was actually to "
+                 "make this age gap seem less jarring. Knives finds herself trying "
                  "to appear more like Ramona after Scott falls for her.")
         
 
